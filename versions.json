@@ -1,7 +1,7 @@
 {
   "stable": {
     "version": "1.2.1",
-    "url": "https://github.com/TicianoDev/LauncherCAF/releases/download/v1.2.1/ChaosAtFazbearsLauncher.exe",
+    "url": "https://github.com/TicianoDev/LauncherCAF/releases/download/1.2.1/ChaosAtFazbearsLauncher.exe",
     "changelog": [
       "Corrección de errores menores de interfaz.",
       "Optimización del tiempo de inicio."
