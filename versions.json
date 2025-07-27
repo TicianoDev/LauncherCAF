@@ -6,14 +6,5 @@
       "Corrección de errores menores de interfaz.",
       "Optimización del tiempo de inicio."
     ]
-  },
-  "beta": {
-    "version": "1.3.0-beta.1",
-    "url": "https://github.com/TicianoDev/LauncherCAF/releases/download/v1.3.0-beta.1/ChaosAtFazbearsLauncher.exe",
-    "changelog": [
-      "¡Nueva funcionalidad! Integración con Discord mejorada.",
-      "Pruebas iniciales de un nuevo sistema de caché.",
-      "Puede contener errores. Reportar en la sección de Feedback."
-    ]
   }
 }
